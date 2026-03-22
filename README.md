@@ -25,8 +25,8 @@ El desempeño del sistema RAG fue validado rigurosamente mediante las siguientes
 * **BLEU y ROUGE**: El sistema reportó un ROUGE-1 de 0.3097 y un ROUGE-L de 0.1677. Se obtuvo un puntaje BLEU de 0.0, lo cual es el resultado esperado y correcto, ya que un sistema RAG eficiente debe parafrasear y sintetizar el contexto en lugar de copiarlo textualmente.
 
 ## Autores
-* Milner Vega Pardo
-* Angel Omar Terrones Escobedo
+* Milner Vega
+* Angel Terrones
 
 ---
 *Este proyecto es parte de una investigación técnica aplicada orientada al desarrollo de soluciones avanzadas en ciencia de datos.*
